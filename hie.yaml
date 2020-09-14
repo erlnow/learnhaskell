@@ -1,0 +1,13 @@
+cradle:
+  stack:
+    - path: "./src"
+      component: "lernhaskell:lib"
+
+    - path: "./app/Main.hs"
+      component: "lernhaskell:exe:lernhaskell-exe"
+
+    - path: "./app/Paths_lernhaskell.hs"
+      component: "lernhaskell:exe:lernhaskell-exe"
+
+    - path: "./test"
+      component: "lernhaskell:test:lernhaskell-test"

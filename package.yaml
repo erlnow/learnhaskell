@@ -1,5 +1,5 @@
 name:                lernhaskell
-version:             0.1.0.1
+version:             0.1.0.2
 github:              "erlnow/lernhaskell"
 license:             BSD3
 author:              "erlnow"
@@ -9,6 +9,7 @@ copyright:           "(c) 2010-2020 erlnow"
 extra-source-files:
 - README.md
 - ChangeLog.md
+- doc/*.md
 
 # Metadata used when publishing your package
 # synopsis:            Short description of your package
