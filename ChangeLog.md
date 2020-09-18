@@ -2,6 +2,14 @@
 
 ## Unreleased changes
 
+## 0.1.0.6 - 2020-09-20 chapter 2
+
+### Added
+
+* `realwh/ch02/*` from ch02 of "Real World Haskell"
+  * `realwh/ch02/LastButOne.hs` exercise
+* `realwh/ch03/add.hs` really from ch02
+
 ## 0.1.0.5 - 2020-09-19 chapter 2
 
 ### Changed 
