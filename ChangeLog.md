@@ -2,8 +2,7 @@
 
 ## Unreleased changes
 
-- Starting learning
-- Code for Chapter 2: Starting Out
+## 0.1.0.3 - 2020-09-18 chapter 2
 
 ### Added
 
