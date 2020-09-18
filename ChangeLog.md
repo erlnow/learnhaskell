@@ -2,6 +2,12 @@
 
 ## Unreleased changes
 
+## 0.1.0.5 - 2020-09-19 chapter 2
+
+### Changed 
+
+* `baby.hs` added code from "Learn you a Haskell for Great Good" ch02
+
 ## 0.1.0.4 - 2020-09-18 chapter 2
 
 ### Added
