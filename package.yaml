@@ -1,5 +1,5 @@
 name:                lernhaskell
-version:             0.1.0.3
+version:             0.1.0.4
 github:              "erlnow/lernhaskell"
 license:             BSD3
 author:              "erlnow"
@@ -36,6 +36,15 @@ executables:
     - -with-rtsopts=-N
     dependencies:
     - lernhaskell
+
+  # from Real World Haskell
+  WC:
+    main:                WC.hs
+    source-dirs:         realwh/ch01
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
 
 tests:
   lernhaskell-test:

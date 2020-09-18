@@ -2,6 +2,20 @@
 
 ## Unreleased changes
 
+## 0.1.0.4 - 2020-09-18 chapter 2
+
+### Added
+
+* Added example `realwh/ch01/WC.hs` from "Real World Haskell" ch01
+* Added `runWC.sh` to execute example
+
+### Changed
+
+* `doc/05_introduction.md` about how to choose which module
+  invoking `stack ghci`.
+* `package.yaml` added WC.hs executable
+* `realhw/ch01/WC.hs` exercises 3 and 4
+
 ## 0.1.0.3 - 2020-09-18 chapter 2
 
 ### Added

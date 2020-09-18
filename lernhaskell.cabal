@@ -4,10 +4,10 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 6d8b6d5cb3c6d7a4fb8302968d63333800d38e01a8564654d351ad5f27f4b19a
+-- hash: b2be8f7008e90169dfc205a6e2d617eec6fe05bc5a971e5017541cdb4fa5f7e1
 
 name:           lernhaskell
-version:        0.1.0.2
+version:        0.1.0.4
 description:    Please see the README on GitHub at <https://github.com/erlnow/lernhaskell#readme>
 homepage:       https://github.com/erlnow/lernhaskell#readme
 bug-reports:    https://github.com/erlnow/lernhaskell/issues
@@ -24,6 +24,7 @@ extra-source-files:
     doc/02_workflow.md
     doc/03_config_editor.md
     doc/04_session_example.md
+    doc/05_introduction.md
 
 source-repository head
   type: git
@@ -36,6 +37,17 @@ library
       Paths_lernhaskell
   hs-source-dirs:
       src
+  build-depends:
+      base >=4.7 && <5
+  default-language: Haskell2010
+
+executable WC
+  main-is: WC.hs
+  other-modules:
+      Paths_lernhaskell
+  hs-source-dirs:
+      realwh/ch01
+  ghc-options: -threaded -rtsopts -with-rtsopts=-N
   build-depends:
       base >=4.7 && <5
   default-language: Haskell2010
