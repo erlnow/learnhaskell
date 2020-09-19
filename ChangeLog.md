@@ -6,6 +6,8 @@
 
 ### Added
 * `pih2e/ch02/test.hs`
+* `pih2e/ch02/ex4.hs` last definition
+* `pih2e/ch02/ex5.hs` init definition 
 
 ### Changed
 * `package.yaml`
