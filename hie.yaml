@@ -3,6 +3,21 @@ cradle:
     - path: "./src"
       component: "lernhaskell:lib"
 
+    - path: "./cis194"
+      component: "lernhaskell:lib"
+
+    - path: "./realwh"
+      component: "lernhaskell:lib"
+
+    - path: "./pih2e"
+      component: "lernhaskell:lib"
+
+    - path: "./realwh/ch01/WC.hs"
+      component: "lernhaskell:exe:WC"
+
+    - path: "./realwh/ch01/Paths_lernhaskell.hs"
+      component: "lernhaskell:exe:WC"
+
     - path: "./app/Main.hs"
       component: "lernhaskell:exe:lernhaskell-exe"
 

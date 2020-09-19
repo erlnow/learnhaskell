@@ -2,6 +2,25 @@
 
 ## Unreleased changes
 
+## 0.1.0.7 - 2020-09-20 chapter 2
+
+### Added
+
+* `pih2e/` added for "Programming in Haskell, second edition" code
+  - `pih2e/ch01/Double.hs` example
+  - `pih2e/ch01/Sum.hs` example
+  - `pih2e/ch01/Qsort.hs` example
+  - `pih2e/ch01/Seqn.hs` example
+  - `pih2e/ch01/Product.hs` exercise
+  - `pih2e/ch01/Qsortr.hs` exercise
+
+### Changed
+* `pih2e/ch01/Qsort.hs` exercise
+* added `cis194/`, `realwh/`, `pih2e/` as `source-dir` for library
+  - `package.yaml`
+  - `hie.yaml` by running `gen-hie`.
+  - `learnhaskell.cabal` by running `stack build`.
+
 ## 0.1.0.6 - 2020-09-20 chapter 2
 
 ### Added
