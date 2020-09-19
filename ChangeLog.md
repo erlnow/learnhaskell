@@ -2,6 +2,15 @@
 
 ## Unreleased changes
 
+## 0.1.0.8 - 2020-09-20 chapter 2
+
+### Added
+* `pih2e/ch02/test.hs`
+
+### Changed
+* `package.yaml`
+* `ChangeLog.md`
+
 ## 0.1.0.7 - 2020-09-20 chapter 2
 
 ### Added
