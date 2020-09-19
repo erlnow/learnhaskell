@@ -10,11 +10,12 @@ In this document, Yorgey recommends two readings:
 -   [Real World Haskell](http://book.realworldhaskell.org/),
     chapters 1 and 2
 
-I try to read them too. I have the book "Programming Haskell". I read this, too.
+I try to read them too. I have the book "Programming in Haskell". I read this, too.
 
 * Code from Yorgey's cis194 course is under `cis194/` directory.
 * Code from "Real World Haskell" is under `realhw/` directory
-* Code from "Learn you Haskell for Great Good" is in `baby.hs`
+* Code from "Learn you Haskell for Great Good" is in `baby.hs`.
+* Code from "Programming in Haskell, 2nd ed." is in `pih2e/`.
 
 Add WC.hs as executable has some complications. For running stack, for example,
 throws the following message:

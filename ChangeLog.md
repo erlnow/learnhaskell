@@ -15,6 +15,7 @@
   - `pih2e/ch01/Qsortr.hs` exercise
 
 ### Changed
+* `doc/05_introduction.md` added "Programming in Haskell" comment.
 * `pih2e/ch01/Qsort.hs` exercise
 * added `cis194/`, `realwh/`, `pih2e/` as `source-dir` for library
   - `package.yaml`
