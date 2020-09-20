@@ -2,7 +2,13 @@
 
 ## Unreleased changes
 
-## 0.1.0.8 - 2020-09-20 chapter 2
+## 0.1.0.9 - 2020-09-20 [chapter2]
+
+### Added
+* [PIH2e] ch3: Types and classes
+  * 'pih2e/ch03/FunctionType.hs'
+
+## 0.1.0.8 - 2020-09-20 [chapter2]
 
 ### Added
 * `pih2e/ch02/test.hs`
@@ -13,7 +19,7 @@
 * `package.yaml`
 * `ChangeLog.md`
 
-## 0.1.0.7 - 2020-09-20 chapter 2
+## 0.1.0.7 - 2020-09-20 [chapter2]
 
 ### Added
 
@@ -33,7 +39,7 @@
   - `hie.yaml` by running `gen-hie`.
   - `learnhaskell.cabal` by running `stack build`.
 
-## 0.1.0.6 - 2020-09-20 chapter 2
+## 0.1.0.6 - 2020-09-20 [chapter2]
 
 ### Added
 
@@ -41,13 +47,13 @@
   * `realwh/ch02/LastButOne.hs` exercise
 * `realwh/ch03/add.hs` really from ch02
 
-## 0.1.0.5 - 2020-09-19 chapter 2
+## 0.1.0.5 - 2020-09-19 [chapter2]
 
 ### Changed 
 
 * `baby.hs` added code from "Learn you a Haskell for Great Good" ch02
 
-## 0.1.0.4 - 2020-09-18 chapter 2
+## 0.1.0.4 - 2020-09-18 [chapter2]
 
 ### Added
 
@@ -61,7 +67,7 @@
 * `package.yaml` added WC.hs executable
 * `realhw/ch01/WC.hs` exercises 3 and 4
 
-## 0.1.0.3 - 2020-09-18 chapter 2
+## 0.1.0.3 - 2020-09-18 [chapter2]
 
 ### Added
 
