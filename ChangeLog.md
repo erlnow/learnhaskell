@@ -2,6 +2,33 @@
 
 ## Unreleased changes
 
+## 0.1.0.10 - 2020-09-22 [chapter2]
+
+### Added
+
+From [PIH2e] chapter 4: Defining functions
+* pih2e/ch04/NewFromOld.hs
+* pih2e/ch04/Conditional.hs
+* pih2e/ch04/Guards.hs
+* pih2e/ch04/PatternMatching.hs
+* pih2e/ch04/LambdaExpressions.hs
+
+Exercises:
+* pih2e/ch04/Halve.hs
+* pih2e/ch04/Third.hs
+* pih2e/ch04/Safetail.hs
+* pih2e/ch04/Disjunction.hs
+* pih2e/ch04/NestedIf.hs
+* pih2e/ch04/NestedIf2.hs
+* pih2e/ch04/Mult.hs
+* pih2e/ch04/LunhAlg.hs
+
+### Changed
+
+* ChangeLog.md
+* package.yaml
+* learnhaskell.cabal
+
 ## 0.1.0.9 - 2020-09-20 [chapter2]
 
 ### Added

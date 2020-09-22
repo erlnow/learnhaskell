@@ -4,10 +4,10 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 305742d9d46df948ab5e25cc44f443346e20b84cc6ecbf2cffb783542e7d0b56
+-- hash: d4194843795fb404e7dfdc4e2f7120ae6b5bcb1f510f400844c7e4f143604784
 
 name:           lernhaskell
-version:        0.1.0.9
+version:        0.1.0.10
 description:    Please see the README on GitHub at <https://github.com/erlnow/lernhaskell#readme>
 homepage:       https://github.com/erlnow/lernhaskell#readme
 bug-reports:    https://github.com/erlnow/lernhaskell/issues
