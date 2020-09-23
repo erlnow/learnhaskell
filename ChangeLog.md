@@ -2,6 +2,20 @@
 
 ## Unreleased changes
 
+## 0.1.0.11 - 2020-09-22 [chapter2]
+
+### Added
+From [PIH2e] chapter 5: List comprehension
+* pih2e/ch05/Basic.hs
+* pih2e/ch05/Filters.hs
+* pih2e/ch05/ZipFunction.hs
+* pih2e/ch05/Stringcomprehension.hs
+* pih2e/ch05/Caesar.hs
+
+### Changed
+* package.yaml
+* learnhaskell.cabal
+
 ## 0.1.0.10 - 2020-09-22 [chapter2]
 
 ### Added
